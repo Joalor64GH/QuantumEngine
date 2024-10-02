@@ -121,6 +121,9 @@
 	<haxeflag name="--macro" value="include('game.strum')" />
 	
 	<haxedef name="hscriptPos" /> <!-- for logging -->
+	<haxedef name="analyzer-optimize" />
+	<haxedef name="no-deprecation-warnings" />
+	<haxedef name="message.reporting" value="pretty" />
 	
 	<!-- _________________________________ Custom _______________________________ -->
 
