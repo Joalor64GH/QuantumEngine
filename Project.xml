@@ -78,6 +78,8 @@
 	<haxelib name="hxCodec"/>
 	<haxelib name="discord_rpc" if="DISCORD_RPC"/>
 
+	<haxelib name="hxcpp-debug-server" if="desktop debug"/>
+
 	<!-- ______________________________ Haxedefines _____________________________ -->
 
 	<!--Enable the Flixel core recording system-->
